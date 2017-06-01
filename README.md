@@ -1,4 +1,4 @@
-# Bogatyrs
+# Two Heroes
 
 ---
 This program calculates the difference between the initial speeds.
