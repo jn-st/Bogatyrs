@@ -1,12 +1,7 @@
 ### Two Heroes
 
 ---
-### This program calculates the difference between the initial speeds.
------------------------------------
-### You will choose numbers that describe flight time of two objects.
------------------------------------
-### The program will then use these numbers to calculate the difference in their initial speeds.
------------------------------------
+### This program calculates the difference between the initial speeds. You will choose numbers that describe flight time of two objects. The program will then use these numbers to calculate the difference in their initial speeds.
 
 ---
 ### The task
